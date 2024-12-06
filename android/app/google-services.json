@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "1003600553489",
+    "project_id": "testphoneauth-af299",
+    "storage_bucket": "testphoneauth-af299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003600553489:android:5145a68b33d62f087373b0",
+        "android_client_info": {
+          "package_name": "com.example.assignment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlbcw6dSvnNIPvjjx93zWDdIEJIbRBi1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003600553489:android:138837f06a7edb357373b0",
+        "android_client_info": {
+          "package_name": "com.example.emailauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlbcw6dSvnNIPvjjx93zWDdIEJIbRBi1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003600553489:android:6056c15b025b24f27373b0",
+        "android_client_info": {
+          "package_name": "com.example.firestore_email_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlbcw6dSvnNIPvjjx93zWDdIEJIbRBi1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003600553489:android:e9d5eb4d1be8c7b57373b0",
+        "android_client_info": {
+          "package_name": "com.example.phone_authe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlbcw6dSvnNIPvjjx93zWDdIEJIbRBi1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003600553489:android:e595b87c07f02da17373b0",
+        "android_client_info": {
+          "package_name": "com.example.shop_hop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlbcw6dSvnNIPvjjx93zWDdIEJIbRBi1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003600553489:android:e279223cbedf63727373b0",
+        "android_client_info": {
+          "package_name": "com.example.task_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlbcw6dSvnNIPvjjx93zWDdIEJIbRBi1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003600553489:android:5ee8dbd9f91caafb7373b0",
+        "android_client_info": {
+          "package_name": "com.example.test_phone_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlbcw6dSvnNIPvjjx93zWDdIEJIbRBi1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003600553489:android:023b6ecbde6f82457373b0",
+        "android_client_info": {
+          "package_name": "com.example.textphoneauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlbcw6dSvnNIPvjjx93zWDdIEJIbRBi1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
